@@ -38,5 +38,7 @@ The more popular and widely adopted symmetric encryption algorithm likely to be 
 <h3>GUI :</h3>
 
 <br>
-![Screenshot 2024-07-11 110709](https://github.com/NitheshLatha/Encryption/assets/158061090/9489b1a1-40f8-43cf-b05c-c301ddfa41d0)
 
+
+
+![Screenshot 2024-07-11 110709](https://github.com/NitheshLatha/Encryption/assets/158061090/f7844497-dc4d-4a63-8dbe-8c39f397d19b)
